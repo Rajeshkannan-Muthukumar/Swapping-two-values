@@ -28,7 +28,7 @@ print("Swapped values are:",a,b)
 ~~~
 
 ## OUTPUT
-![Output1] (SSR.png)
+![Output 1](SSR.png)
 
 
 
